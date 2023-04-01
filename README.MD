@@ -3,9 +3,9 @@
 # Ensina pronomes e verbos 
 
 - [x] Seu objetivo é criar um programa que aceita pelo 4 inputs do usuario;
-- [x]console.log da historia utilizando os inputs;
-- [x]A historia tem que estar em aspas duplas;
-- [x]Implementar o pular linha;
+- [x] Console.log da historia utilizando os inputs;
+- [x] A historia tem que estar em aspas duplas;
+- [x] Implementar o pular linha;
 
 ## Dicas
 
@@ -19,5 +19,5 @@
 
 ## DIFERENCIAIS 
 
-1. [x]Executar operaçoes matematicas com ao menos um dos inputs;
-2. [x]Fazer um parse. (Number or String);
+1. [x] Executar operaçoes matematicas com ao menos um dos inputs;
+2. [x] Fazer um parse. (Number or String);
