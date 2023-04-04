@@ -21,3 +21,11 @@
 
 1. [x] Executar operaçoes matematicas com ao menos um dos inputs;
 2. [x] Fazer um parse. (Number or String);
+
+## PART 2
+
+> PROJETO REFATORAMENTO: MAD LIBS
+
+- [x] Crie mais duas historias
+- [x] Ofereca opcao de historias pro usuario
+- [x] Printar o resultado De acordo com a historia escolhida
